@@ -1,0 +1,32 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>公告栏</title>
+<base target="_self">
+<style fprolloverstyle>A:hover {color: #00FF00; font-weight: bold}
+</style>
+</head>
+
+<body leftmargin="200" rightmargin="200" link="#0000FF" vlink="#0000FF" alink="#0000FF">
+
+<p align="center"><font size="2" color="#808080">最近更新时间：2022年09月17日 09:36:47</font></p>
+<p align="center">　</p>
+<p align="center"><b><font size="6">公告栏</font></b></p>
+<p>　</p>
+<p>分类<span lang="en-gb">一</span></p>
+<hr noshade>
+
+<p><a style="text-decoration: blink" href="测试公告1.htm"><font color="#0000FF">测试公告1</font></a></p>
+<p><a style="text-decoration: blink" href="测试公告2.htm"><font color="#0000FF">测试公告2</font></a></p>
+<p>　</p>
+<p>分类二</p>
+<hr noshade>
+
+<p><a style="text-decoration: blink" href="测试公告3.htm"><font color="#0000FF">测试公告3</font></a></p>
+<p><a style="text-decoration: blink" href="测试公告4.htm"><font color="#0000FF">测试公告4</font></a></p>
+
+</body>
+
+</html>
