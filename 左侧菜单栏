@@ -1,0 +1,27 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-gb">
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>左侧菜单栏</title>
+<base target="main">
+<style fprolloverstyle>A:hover {color: #00FF00; font-weight: bold}
+</style>
+</head>
+
+<body bgcolor="#FFFFFF" link="#0000FF" vlink="#0000FF" alink="#0000FF">
+
+<p>　</p>
+<p>　</p>
+<p><a style="text-decoration: blink" href="主页.htm">&#9655; 主页</a></p>
+<p><a style="text-decoration: blink" href="公告栏.htm">&#9655; 
+<span style="text-decoration: blink">公告栏</span></a></p>
+<p><span lang="zh-cn"><a style="text-decoration: blink" href="世界观相关.htm">&#9655; 世界观相关</a></span></p>
+<p><span lang="zh-cn"><a style="text-decoration: blink" href="特别内容.htm">&#9655; 特别内容</a></span></p>
+<p><span lang="zh-cn"><a style="text-decoration: blink" href="留言板.htm">&#9655; 留言板</a></span></p>
+<p><a style="text-decoration: blink" href="联络方式.htm">&#9655;<span lang="zh-cn"> 联络方式</span></a></p>
+<p><span lang="zh-cn"><a style="text-decoration: blink" href="链接.htm">&#9655; 链接</a></span></p>
+
+</body>
+
+</html>
