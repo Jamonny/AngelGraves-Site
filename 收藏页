@@ -1,0 +1,22 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>收藏页</title>
+<style fprolloverstyle>A:hover {color: #00FF00; font-weight: bold}
+</style>
+</head>
+
+<body leftmargin="50" rightmargin="50" link="#0000FF" vlink="#0000FF" alink="#0000FF">
+
+<p>　</p>
+<p>电脑端用户请使用“Ctrl+D”快捷收藏。</p>
+<p>移动端用户在可在浏览器的菜单栏中点击“添加书签”进行收藏。</p>
+<p>感谢您的支持！Thanks&#9834;(*^▽^*)</p>
+<font size="2">
+<a onclick="history.back(-1);" style="text-decoration: blink" href="#;">点击此处返回</a></font>
+
+</body>
+
+</html>
